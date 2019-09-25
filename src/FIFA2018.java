@@ -1,4 +1,4 @@
-class FIFA2018
+public class FIFA2018
 {
     String a[]={"Russia","Uruguay","Egypt","Saudi Arabia"};
     String b[]={"Iran","Portugal","Spain","Morocco"};
